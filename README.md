@@ -12,6 +12,7 @@ My projects:
 - [ASC](link) — AI coaching assistant using video analysis + multimodal LLMs
 - [Oracle](link) — Live win-probability engine with Monte Carlo simulation
 - [Pathfinder](link) — Esports talent scouting platform with real pro stats
+- Aegis - Behavioral Anti-Cheat Agent
 - [Redis](link) — Redis server built from scratch in Python
 
 Currently building more public repos but most are not uploaded due to them being unfinished. 
