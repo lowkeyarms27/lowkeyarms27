@@ -1,6 +1,6 @@
 Hello, I'm Haoyi! 👋
 
-Developer based in London. I build games and agentic tools -  mostly esports-related.
+Developer based in London. I build games and agentic tools & AI Agents!
 
 I build, design and ship project rapidly, straight from a idea to a working prototype
 
