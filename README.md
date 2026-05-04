@@ -8,12 +8,13 @@ My stack: python, javascript, react, tailwind, vite, FastAPI, SQLite, Websocket,
 
 AI/ML: Google Gemini, Twelve Labs, YOLOv8,  Whisper,  ByteTrack, scikit-learn, Nvidia Cosmos, EasyOCR, Librosa, HuggingFace,  sentence-transformers 
 
-My projects:
-- [ASC](link) — AI coaching assistant using video analysis + multimodal LLMs
-- [Oracle](link) — Live win-probability engine with Monte Carlo simulation
-- [Pathfinder](link) — Esports talent scouting platform with real pro stats
+Some project includes:
+- [ASC] — AI coaching assistant using video analysis + multimodal LLMs
+- [Oracle] — Live win-probability engine with Monte Carlo simulation
+- [Pathfinder] — Esports talent scouting platform with real pro stats
 - Aegis - Behavioral Anti-Cheat Agent
-- [Redis](link) — Redis server built from scratch in Python
+- [Redis] — Redis server built from scratch in Python
+- 
 
 Currently building more public repos but most are not uploaded due to them being unfinished. 
 
