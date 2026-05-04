@@ -4,7 +4,7 @@ Developer based in London. I build games and agentic tools & AI Agents!
 
 I build, design and ship project rapidly, straight from a idea to a working prototype
 
-My stack: python, javascript, react, tailwind, vite, FastAPI, SQLite, Websocket
+My stack: python, javascript, react, tailwind, vite, FastAPI, SQLite, Websocket, n8n
 
 AI/ML: Google Gemini, Twelve Labs, YOLOv8,  Whisper,  ByteTrack, scikit-learn, Nvidia Cosmos, EasyOCR, Librosa, HuggingFace,  sentence-transformers 
 
