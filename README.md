@@ -14,7 +14,7 @@ Some project includes:
 - [Pathfinder] — Esports talent scouting platform with real pro stats
 - Aegis - Behavioral Anti-Cheat Agent
 - [Redis] — Redis server built from scratch in Python
-- 
+  
 
 Currently building more public repos but most are not uploaded due to them being unfinished. 
 
